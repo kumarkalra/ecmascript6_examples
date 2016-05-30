@@ -2,5 +2,6 @@
 Ecmascript 6 examples
 
 
-Clone or download the sample and run index.html
+Clone or download the sample and run index.html.
+
 Open your browser console to see the output.
